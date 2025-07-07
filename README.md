@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @himanshugitproj
-- 👀 I’m interested in almost everything, curious by nature.
+- 👀 I’m interested in anything which is new to me, curious by nature.
 - 🌱 I’m always learning something.
 - 💞️ I’m looking to collaborate on Frontend-Projects
 - 📫 How to reach me ...
